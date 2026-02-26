@@ -383,7 +383,6 @@ HAVING SUM(income) > 200000;
 ```
 
 **Output:
-
 <img width="998" height="949" alt="image" src="https://github.com/user-attachments/assets/c0dc7a77-b218-44e6-b0be-5606a9e17e0b" />
 
 
